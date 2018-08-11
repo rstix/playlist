@@ -33,9 +33,9 @@ class Playlist extends Component {
         <img src="" alt=""/>
         <h3>Playlist name</h3>
         <ul>
-          <li>song 1</li>
-          <li>song 2</li>
-          <li>song 3</li>
+          <li>Song 1</li>
+          <li>Song 2</li>
+          <li>Song 3</li>
         </ul>
       </div>
     )
