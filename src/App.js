@@ -174,7 +174,7 @@ class App extends Component {
               if(window.location.href.includes('localhost')){
                 window.location = 'http://localhost:8888/login'
               }else{
-                'https://rstix-playlist-backend.herokuapp.com/login'
+                window.location = 'https://rstix-playlist-backend.herokuapp.com/login'
               }
               }}
             style={{
